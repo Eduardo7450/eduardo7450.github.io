@@ -1,0 +1,128 @@
+body {
+
+  font-size: 62.5%;
+  margin-bottom: 20em;
+  background-image: url(fondo4.jpg);
+  background-size:100% 100%;
+  background-attachment: fixed;
+  margin: 0;
+	min-height: 100vh;
+	flex-wrap: wrap;
+
+}
+.contenedor{
+	width: 85%;
+	max-width: 1100px;
+	margin: 1 auto;
+}
+
+
+.header{
+	background-color: white;
+
+	color: white;
+
+	padding: -1rem 0;
+}
+img{
+	width: 120px;
+	margin-top: -20px;
+	margin-left: 20px;
+}
+li{
+	float: left;
+	list-style: none;
+	padding: 10px;
+	font-size: 1.5em;
+
+	
+
+}
+li:hover a{
+	color: red;
+}
+
+nav{
+	float: right;
+}
+a{
+	text-decoration: none;
+	font-family: arial black;
+	color: purple;
+}
+
+
+li:hover{
+	color:red;
+}
+
+.parrafo1{
+	color:#FF6400 ;
+	font-size: 2em;
+	font-family: Arial black;
+}
+
+.lista1{
+	font-size: 2em;
+}
+h2{
+	color:red;
+	font-size: 4em;
+	font-family: Times New Roman;
+}
+.Introduccion{
+	color:black;
+	font-size: 2em;
+}
+.Introduccion2{
+	color:black;
+	font-size: 2em;
+}
+.h2-1{
+	color:red;
+	font-size: 4em;
+
+}
+.desarrollo{
+	font-size: 2em;
+}
+.h3{
+	color: red;
+	font-size: 3em;
+}
+.preguntas{
+	font-size: 2em;
+}
+.h4{
+	font-size: 3em;
+}
+.desarrollo2{
+	font-size: 2em;
+}
+.resumen{
+	font-size: 2em;
+	font-family: Times New Roman;
+	color: orange;
+}
+.lista2{
+	font-size: 1em;
+
+}
+.tabla{
+	margin: 50px ;
+	width: 1000px;
+	background-color: #F9F9F9;
+	width: 50;
+}
+footer
+{
+	background-color: black;
+	line-height: 3;
+	text-align: center;
+	width: 100%;
+	align-self: flex-end;
+	font-family: arial;
+	color: white;
+}
+
+}
